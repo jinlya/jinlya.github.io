@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.409cf812.css",
+    "main.js": "/static/js/main.dc0c2eae.js",
+    "static/js/787.ecbf02d4.chunk.js": "/static/js/787.ecbf02d4.chunk.js",
+    "static/media/j-suit-01.JPG": "/static/media/j-suit-01.b99629297e9377d32761.JPG",
+    "static/media/j-suit-03.JPG": "/static/media/j-suit-03.b3517e8ad1e4717079fa.JPG",
+    "static/media/j-suit-02.JPG": "/static/media/j-suit-02.54b86a5ed287f5ea7cae.JPG",
+    "static/media/j-purple-02.JPG": "/static/media/j-purple-02.8088b854ed6db66723a7.JPG",
+    "static/media/j-suit-04.JPG": "/static/media/j-suit-04.a469bbafb14c7d40be47.JPG",
+    "static/media/j-purple-03.JPG": "/static/media/j-purple-03.c6de99f8b01701afb011.JPG",
+    "static/media/tomica-copen-gr.png": "/static/media/tomica-copen-gr.ee9c8697e0e619cd34a6.png",
+    "static/media/j-purple-01.JPG": "/static/media/j-purple-01.5cdc34f3adeada0436ee.JPG",
+    "static/media/j-pastel-01.JPG": "/static/media/j-pastel-01.7ee52ec459c9926c4659.JPG",
+    "static/media/j-suit-05.JPG": "/static/media/j-suit-05.3d834eefc61562a94eff.JPG",
+    "static/media/j-pastel-03.JPG": "/static/media/j-pastel-03.49ca98a32664d029bdf2.JPG",
+    "static/media/tomica-lambo-countach-01.png": "/static/media/tomica-lambo-countach-01.1ef67e930bb7c5cb87da.png",
+    "static/media/j-pastel-02.JPG": "/static/media/j-pastel-02.1cf6a51756cda3ce5981.JPG",
+    "static/media/j-pastel-04.JPG": "/static/media/j-pastel-04.6fcd56e5c42e0c2d73f1.JPG",
+    "static/media/tomica-ferrari-fxx-02.png": "/static/media/tomica-ferrari-fxx-02.ab92f814c4e01ca1cccb.png",
+    "static/media/tomica-ferrari-fxx-01.png": "/static/media/tomica-ferrari-fxx-01.85c1ebc584cf1a868dc7.png",
+    "static/media/tomica-civic-01.png": "/static/media/tomica-civic-01.3339a8600cb14c97c703.png",
+    "static/media/tomica-pajero-01.png": "/static/media/tomica-pajero-01.b9d1d5439c1258e2555e.png",
+    "static/media/lego-maclaren-elva.png": "/static/media/lego-maclaren-elva.91521e8d6aa8752f288f.png",
+    "index.html": "/index.html",
+    "main.409cf812.css.map": "/static/css/main.409cf812.css.map",
+    "main.dc0c2eae.js.map": "/static/js/main.dc0c2eae.js.map",
+    "787.ecbf02d4.chunk.js.map": "/static/js/787.ecbf02d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.409cf812.css",
+    "static/js/main.dc0c2eae.js"
+  ]
+}
